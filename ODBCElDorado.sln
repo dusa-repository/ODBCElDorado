@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ODBCElDorado", "ODBCElDorado\ODBCElDorado.vbproj", "{FE96F840-E6E1-4E9A-8829-8343B60A3C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE96F840-E6E1-4E9A-8829-8343B60A3C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE96F840-E6E1-4E9A-8829-8343B60A3C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE96F840-E6E1-4E9A-8829-8343B60A3C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE96F840-E6E1-4E9A-8829-8343B60A3C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
